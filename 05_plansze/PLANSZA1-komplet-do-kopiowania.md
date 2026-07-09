@@ -136,3 +136,14 @@ Wniosek: warunki świetlne sprzyjają roślinom światłolubnym (trawy ozdobne, 
 
 ## Elementy obowiązkowe (dopilnuj)
 Stopka ✅ · numer 1/2 ✅ · skala liczbowa + podziałka liniowa (przy rzucie/analizach) · róża wiatrów (strzałka N).
+
+---
+
+## UKŁAD (kompozycja) — jak poskładać
+3 kolumny + dolny pas:
+- LEWA: Lokalizacja (mapka + opis + historia) → Profil użytkowników.
+- ŚRODEK: Analiza komunikacji → Powiązania widokowe → (pod nimi) podziałka liniowa + róża wiatrów.
+- PRAWA: Analiza dendrologiczna (zielone zostają / czerwone X wycinka) → Linijka słońca.
+- DOLNY PAS: Dokumentacja fotograficzna (zdjęcia) + Wnioski z analiz (hasła).
+- Stopka na dole.
+Zasada: wzrok od kontekstu (lewa) → analizy (środek/prawa) → wnioski (dół). Jedna siatka, oddech między blokami.
