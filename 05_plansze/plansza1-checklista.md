@@ -35,6 +35,26 @@ Status: ✅ masz (z draftu) / 🟠 dodać lub dopracować.
 - **Kolumna środkowa:** Dyspozycja 1:500 (duże, dominanta) → pod nią podziałka + róża wiatrów → Tabela programowa.
 - **Kolumna prawa:** Szata roślinna → Dendrologia/gospodarka (kondensat) → Linijka słońca (kondensat) → Przyrodnicza → Komunikacja i wyposażenie.
 
+## MAKIETA — dokładne współrzędne bloków (B1 1000×700, origin lewy-dolny)
+Ramka 10,10–990,690. Linia tytułu y=655. Linia stopki y=55.
+Trzy kolumny: **L** x15–320 · **C** x335–665 (najszersza, dominanta) · **P** x680–985.
+Bloki rysujemy jako ramki pomocnicze (warstwa `POMOC`), potem wypełniamy treścią.
+
+| Blok | Lewy-dolny róg | Rozmiar (@szer,wys) |
+|---|---|---|
+| L1 Lokalizacja | 15,540 | @305,110 |
+| L2 Profil użytkownika | 15,435 | @305,95 |
+| L3 Powiązania widokowe | 15,250 | @305,175 |
+| L4 Widoki (zdjęcia 1–3) | 15,60 | @305,180 |
+| C1 Dyspozycja 1:500 (rzut, dominanta) | 335,250 | @330,400 |
+| C2 Podziałka liniowa + róża wiatrów | 335,205 | @330,40 |
+| C3 Tabela programowa | 335,60 | @330,140 |
+| P1 Szata roślinna (mapa) | 680,540 | @305,110 |
+| P2 Dendrologia — gospodarka drzewostanem | 680,430 | @305,105 |
+| P3 Linijka słońca / zacienienie | 680,320 | @305,105 |
+| P4 Analiza przyrodnicza | 680,190 | @305,125 |
+| P5 Komunikacja + wyposażenie | 680,60 | @305,125 |
+
 ## Kolejność realizacji (po kolei)
 1. Ustaw siatkę kompozycji (3 kolumny) — pomocnicze linie w papierze.
 2. Wstaw okno (viewport) z rzutem 1:500 w kolumnie środkowej.
