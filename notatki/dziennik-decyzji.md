@@ -2,6 +2,15 @@
 
 Chronologiczny zapis ustaleń i otwartych pytań. Najnowsze na górze.
 
+## 2026-07-09 — Materiał #5: książeczka dendrologiczna + analiza słoneczna
+Dwa dokumenty analityczne autorki (PDF w `01_analizy/`). Streszczenia:
+`01_analizy/dendrologia.md` i `01_analizy/analiza-sloneczna.md`.
+**Domykają 2 braki:** fizjografia/linijka słońca ✅ i dendrologia/gospodarka drzewostanem ✅.
+Dendro: dominant topola biała 83,78%, rodzime 94,59%, wycinka 2 klonów inwazyjnych (2328 zł),
+topola nr 12 = dominanta do zachowania, pas wierzby nr 38 chroniony.
+**MOSTEK:** wniosek dendro („dosadzić kwitnące, barwy inne niż żółty") = uzasadnienie naszej słonecznej łąki.
+Słońce: drzewa/cień tylko na północy → reszta terenu nasłoneczniona → uzasadnia rośliny światłolubne.
+
 ## 2026-07-09 — Materiał #4: ROBOCZE PLANSZE AUTORKI (2× B1) + ocena
 Autorka (Pola Organiszczak) dostarczyła własne robocze plansze (PDF w `05_plansze/robocze/`).
 Pełna ocena „zrobione vs braki" → `05_plansze/stan-i-braki.md`.

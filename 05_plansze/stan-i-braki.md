@@ -23,9 +23,10 @@ Data oceny: 2026-07-09.
 - Stopka
 
 **Braki:**
-- [ ] ❌ **Analiza zacienienia / linijka słońca (fizjografia)** — wymóg analiz wspomagających
+- [x] ✅ **Analiza zacienienia / linijka słońca (fizjografia)** — ZROBIONE w książeczce (`01_analizy/analiza-sloneczna.md`); rozważyć skondensowany kadr na planszy
+- [x] ✅ **Gospodarka drzewostanem** — ZROBIONE w książeczce dendrologicznej (`01_analizy/dendrologia.md`): inwentaryzacja 38 drzew, kolizje, wycinka 2 klonów inwazyjnych (2328 zł)
 - [ ] ⚠️ **Podziałka liniowa (graficzna) + skala liczbowa** przy rzutach — element obowiązkowy
-- [ ] Ewentualnie: wyraźna **gospodarka drzewostanem** (które drzewa zostają / do usunięcia)
+- [ ] Rozważyć: kondensat dendrologii + linijki słońca NA Planszy 1 (skoro pełne wersje są w książeczce)
 - [ ] Drobne: literówki w stopce (polskie znaki)
 
 ## PLANSZA 2/2 — „projekt i wizualizacje"
