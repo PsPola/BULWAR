@@ -147,3 +147,8 @@ Stopka ✅ · numer 1/2 ✅ · skala liczbowa + podziałka liniowa (przy rzucie/
 - DOLNY PAS: Dokumentacja fotograficzna (zdjęcia) + Wnioski z analiz (hasła).
 - Stopka na dole.
 Zasada: wzrok od kontekstu (lewa) → analizy (środek/prawa) → wnioski (dół). Jedna siatka, oddech między blokami.
+
+---
+
+## DODATEK — tekst do mapki WYPOSAŻENIA (osobny, z realnymi liczbami)
+Istniejące wyposażenie terenu jest ubogie i nierównomiernie rozmieszczone. Na całym odcinku znajdują się zaledwie 4 ławki i 3 kosze na śmieci oraz pojedyncze latarnie i miejsca postojowe dla rowerów — skupione głównie przy głównej ścieżce. Znaczna część terenu pozbawiona jest jakiejkolwiek małej architektury i miejsc do odpoczynku. Wniosek: niedobór wyposażenia obniża komfort korzystania z terenu — projekt uzupełnia małą architekturę (ławki, siedziska, kosze, oświetlenie) i rozmieszcza ją równomiernie wzdłuż całego założenia.
