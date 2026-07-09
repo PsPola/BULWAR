@@ -96,6 +96,23 @@ Zasada: **rysujemy w model space 1:1 w metrach**, a skalę ustawiamy dopiero w a
 - Ten sam layout skopiuj (PPM na zakładce → Przenieś/Kopiuj) i zmień tytuł na `- projekt i wizualizacje` oraz numer na `2/2`.
 - Najlepiej: zrób ramkę+stopkę **blokiem** (`BLOK`), żeby edytować raz dla obu.
 
+## RĘCZNE robienie ramki + stopki (nauka, krok po kroku)
+Wariant, w którym autorka robi wszystko sama, żeby umieć.
+0. Layout B1, `PSPACE`. **Wciśnij `F12`** (wyłącz Dynamic Input) → wpisywane `x,y` są bezwzględne (od 0,0).
+   Kartka: lewy-dolny róg `0,0`, prawy-górny `1000,700`.
+1. Warstwy: `LAYER` → nowa `RAMKA` i `OPIS_STOPKA`; `RAMKA` jako bieżąca.
+2. Styl tekstu: `STYLE` → New `OPIS` → font **Arial** (polskie znaki!).
+3. Ramka: `RECTANG` → `10,10` → `990,690`.
+4. Pasek stopki: `LINE` → `10,55` → `990,55` → Esc. Pasek tytułu: `LINE` → `10,655` → `990,655` → Esc.
+5. Boks numeru: `RECTANG` → `935,655` → `990,690`.
+6. Teksty (warstwa `OPIS_STOPKA`), komenda `TEXT`: punkt → wysokość → kąt 0 → treść → ↵↵
+   - Tytuł `20,668` h10: „KONCEPCJA ZAGOSPODAROWANIA FRAGMENTU CYPLA CZERNIAKOWSKIEGO - analizy i program"
+   - Numer `948,665` h12: „1/2"
+   - Stopka 1 `20,38` h7: „PRZEDMIOT: Projekt obieralny 2B - Projektowanie bulwarów i promenad, ROK AKADEMICKI 2025/2026"
+   - Stopka 2 `20,20` h7: „AUTOR: Pola Organiszczak     PROWADZĄCY: dr inż. Magdalena Błaszczyk, dr inż. Tatiana Swoczyna, mgr inż. Karolina Kais"
+7. Poprawki: podwójny klik = edycja tekstu; `MOVE`; `U` cofnij; `ERASE`.
+8. Reużycie: `BLOCK` → `STOPKA_B1` (na Planszę 2 przez `INSERT`).
+
 ## Podziałka liniowa + róża wiatrów — dokładne komendy (paper space, mm)
 
 > Zasada bezpieczna dla „dynamic input": PIERWSZY punkt wpisuj jako `x,y` (absolutny),
