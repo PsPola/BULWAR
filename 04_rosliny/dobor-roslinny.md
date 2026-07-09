@@ -85,6 +85,7 @@ przy wodzie dzika łąka nadrzeczna → w górę, przy placu, uporządkowany cha
 - **Sambucus nigra** — rodzimy, owocodajny → odpowiada na wniosek z dendrologii o braku gatunków
   owocodajnych dla ptaków. Obrócić na atut.
 
-## Otwarte decyzje
-- [ ] Paleta kolorystyczna: fiolet + srebro + biel (naturalistyczna, „inne niż żółty") vs rdzawo-bursztynowa (preriowa)
+## Decyzje
+- [x] ✅ **Paleta = fiolet + srebro + biel** (naturalistyczna, chłodna; odpowiada na wniosek dendro „inne niż żółty").
+      Kluczowe: krwawnica (fiolet), trawy (srebro), wiązówka/stokrotki (biel).
 - [ ] Ostateczny spis gatunków do detalu (kieszeń roślinna 1:100/1:200) — łączy STREFĘ A/B (byliny+trawy) z sąsiedztwem STREFY C

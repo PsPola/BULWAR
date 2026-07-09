@@ -31,6 +31,7 @@
 - Wszystko **wyrównane do siatki** — żaden element nie „pływa".
 - Typografia: **jeden krój, 3 wielkości** (tytuł / nagłówki / opis).
 
-## Otwarte decyzje
-- [ ] Food truck: stały wtopiony pawilon vs mobilny punkt na utwardzonym placyku (zmienia program funkcjonalny)
-- [ ] Kolejność prac: najpierw siatka plansz czy najpierw rozkład stref A/B/C na cyplu
+## Decyzje
+- [x] ✅ **Food truck = mobilny punkt** na utwardzonym placyku (elastyczny, sezonowy, mniejsza ingerencja w teren zalewowy).
+- [x] ✅ **Kolejność prac: zaczynamy od DETALU** (schody + kaskada + kieszeń roślinna) — serce projektu i „matka" reszty braków.
+- [x] ✅ **Paleta = fiolet + srebro + biel** przy wodzie (patrz `04_rosliny/dobor-roslinny.md`).
