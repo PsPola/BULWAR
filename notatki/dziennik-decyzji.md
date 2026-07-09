@@ -2,6 +2,18 @@
 
 Chronologiczny zapis ustaleń i otwartych pytań. Najnowsze na górze.
 
+## 2026-07-09 — Materiał #3: referencje + ławka-donica L + przykładowa praca
+Trzy rzeczy:
+1. Moodboard estetyczny → `02_koncepcja/referencje-wizualne.md` (betonowe leżaki nad wodą, kaskady,
+   żyjące schody, pomosty, food truck). Potwierdza kierunek: surowy beton + dzika łąka + woda.
+2. Ławka-donica L (~165×110 cm) → `03_detal/element-lawka-donica-L.md` (kandydat na detal).
+3. Przykładowa praca P. Nowaka (ten sam przedmiot/lokalizacja) → `00_brief/przyklad-pracy-studenckiej.md`
+   = wzorzec układu 2 plansz + checklista kompletności.
+
+**Nowe fakty formalne:** przedmiot = „Projekt obieralny 2B", rok 2025/2026; prowadzący ze stopki:
+dr inż. M. Błaszczyk, dr inż. T. Swoczyna, mgr inż. K. Kais. ⚠️ Ustalić skład NASZEJ stopki.
+**Wyróżnik vs Nowak:** on zrobił łęg/las cienisty; my robimy słoneczną łąkę zalewową — nie kopiujemy.
+
 ## 2026-07-09 — Materiał #2: widoki z terenu (Look Around)
 Seria zdjęć terenu (Bulwar Flotylli Pińskiej, od Portu Czerniakowskiego do Mostu Łazienkowskiego).
 Analiza zapisana w `01_analizy/stan-istniejacy-i-analiza-widokowa.md`.

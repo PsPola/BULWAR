@@ -1,7 +1,10 @@
 # Brief przedmiotu — wymagania i kryteria
 
-Przedmiot: **Projektowanie bulwarów i promenad** (SGGW)
+Przedmiot: **Projekt obieralny 2B – Projektowanie bulwarów i promenad** (SGGW), rok akad. **2025/2026**
 Koordynator: **dr inż. Kinga Kimic**
+Prowadzący (ze stopki przykładowej pracy — DO POTWIERDZENIA dla naszej stopki):
+**dr inż. Magdalena Błaszczyk, dr inż. Tatiana Swoczyna, mgr inż. Karolina Kais**
+> ⚠️ Ustalić, kogo wpisujemy w naszej stopce (koordynator / prowadzący / wszyscy). Patrz `przyklad-pracy-studenckiej.md`.
 
 ## 1. Istota przedmiotu
 Projektujemy **nadrzeczną przestrzeń publiczną**. Klucz: połączenie funkcji rekreacyjnej dla ludzi
