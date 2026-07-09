@@ -2,6 +2,13 @@
 
 Chronologiczny zapis ustaleń i otwartych pytań. Najnowsze na górze.
 
+## 2026-07-09 — Materiał #2: widoki z terenu (Look Around)
+Seria zdjęć terenu (Bulwar Flotylli Pińskiej, od Portu Czerniakowskiego do Mostu Łazienkowskiego).
+Analiza zapisana w `01_analizy/stan-istniejacy-i-analiza-widokowa.md`.
+**Kluczowy wniosek:** dzika łąka + zdegradowane betonowe schody/pochylnia JUŻ istnieją na terenie →
+narracja projektu = wydobyć i uporządkować istniejący charakter, nie wymyślać od zera.
+Ekspozycja wschodnia (słońce poranne nad wodą). Dominanta: Most Łazienkowski (S), panorama Saskiej Kępy (E).
+
 ## 2026-07-09 — Materiał #1: mapa zasadnicza
 Autorka dostarczyła mapę zasadniczą (dodaje materiały po kolei, decyzja o starcie na końcu).
 Wstępny odczyt zapisany w `01_analizy/mapa-zasadnicza-odczyt.md`. Teren: wąski klin NW–SE,
