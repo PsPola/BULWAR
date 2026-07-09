@@ -2,6 +2,12 @@
 
 Chronologiczny zapis ustaleń i otwartych pytań. Najnowsze na górze.
 
+## 2026-07-09 — Materiał #1: mapa zasadnicza
+Autorka dostarczyła mapę zasadniczą (dodaje materiały po kolei, decyzja o starcie na końcu).
+Wstępny odczyt zapisany w `01_analizy/mapa-zasadnicza-odczyt.md`. Teren: wąski klin NW–SE,
+owalna pętla-głowica na północy, pas utwardzeń, istniejące budynki, rzędne wysokościowe.
+Plik oryginału do wgrania do `materialy-zrodlowe/mapa-zasadnicza.jpg`.
+
 ## 2026-07-09 — Start projektu
 **Ustalone:**
 - Repozytorium BULWAR = jedno miejsce prawdy dla całej wiedzy projektu.

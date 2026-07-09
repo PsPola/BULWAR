@@ -7,8 +7,7 @@ Zasada: każdy materiał → tutaj w oryginale, a **wyciągnięte z niego wniosk
 w odpowiednim folderze tematycznym (`01_analizy/`, `04_rosliny/` itd.) i linkujemy z powrotem tutaj.
 
 ## Spis materiałów
-_(pusto — dodamy przy pierwszym materiale)_
 
 | Data | Plik | Co to | Wnioski zapisane w |
 |---|---|---|---|
-| | | | |
+| 2026-07-09 | `mapa-zasadnicza.jpg` _(do wgrania przez autorkę)_ | Mapa zasadnicza fragmentu Cypla Czerniakowskiego | [01_analizy/mapa-zasadnicza-odczyt.md](../01_analizy/mapa-zasadnicza-odczyt.md) |
