@@ -1,0 +1,4 @@
+# generowane artefakty (DXF/PNG) — odtwarzalne przez skrypty
+outputs/
+__pycache__/
+*.pyc

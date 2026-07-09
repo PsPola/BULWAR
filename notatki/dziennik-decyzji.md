@@ -2,6 +2,14 @@
 
 Chronologiczny zapis ustaleń i otwartych pytań. Najnowsze na górze.
 
+## 2026-07-09 — Import narzędzi DXF (ezdxf) z projektu ławki
+Zaimportowano do `narzedzia-dxf/` mechanizm generowania DXF (Python + ezdxf) z wcześniejszego
+projektu autorki: generatory schody+murek, pergola, ławka, nawierzchnia + narzędzie czyszczące,
+standard `WYTYCZNE_DXF.md`, ściągę AutoCAD i wiedzę CAD z pamięci.
+Zastosowanie w BULWAR: detal (schody+murek), pergole pod pnącza, ławka-donica L, przekroje nawierzchni.
+Uruchomienie: `pip install -r requirements.txt` (ezdxf, matplotlib), potem `python3 gen_*.py` → outputs/*.dxf.
+Uwaga: brancha `develop` nie było — skrypty leżały w working tree repo architektura (folder `skrypty/`).
+
 ## 2026-07-09 — Wytyczne prowadzącej: obowiązkowe gatunki + rozmieszczenie
 Prowadząca wskazała gatunki do uwzględnienia (krzewy: Buddleja davidii, Sambucus nigra,
 Syringa vulgaris, Ribes aureum, Amelanchier lamarckii; pnącza: Wisteria sinensis, Clematis).
