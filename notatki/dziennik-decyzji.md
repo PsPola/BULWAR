@@ -2,6 +2,19 @@
 
 Chronologiczny zapis ustaleń i otwartych pytań. Najnowsze na górze.
 
+## 2026-07-09 — Materiał #4: ROBOCZE PLANSZE AUTORKI (2× B1) + ocena
+Autorka (Pola Organiszczak) dostarczyła własne robocze plansze (PDF w `05_plansze/robocze/`).
+Pełna ocena „zrobione vs braki" → `05_plansze/stan-i-braki.md`.
+
+**Ustalenia:**
+- Format = **2 plansze B1** (nie 3). Skorygowano brief.
+- Stopki ZROBIONE (autor + 3 prowadzących). Drobne literówki do poprawy (polskie znaki).
+- Open question o skład stopki → ZAMKNIĘTE (autor Pola Organiszczak + prowadzący, bez koordynatorki).
+
+**Kluczowe braki (roadmap):** Plansza 2 — legenda pusta, brak DETALU 1:100/1:200, brak min. 2 PRZEKROJÓW,
+brak bilansu terenu / tabeli programowej / schematów ideowych. Plansza 1 — brak linijki słońca (fizjografia),
+brak podziałki liniowej. Priorytet #1: DETAL (schody+kaskada+kieszeń) = serce projektu i wyróżnik.
+
 ## 2026-07-09 — Materiał #3: referencje + ławka-donica L + przykładowa praca
 Trzy rzeczy:
 1. Moodboard estetyczny → `02_koncepcja/referencje-wizualne.md` (betonowe leżaki nad wodą, kaskady,

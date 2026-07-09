@@ -15,3 +15,5 @@ w odpowiednim folderze tematycznym (`01_analizy/`, `04_rosliny/` itd.) i linkuje
 | 2026-07-09 | `referencje/` _(do wgrania)_ | Moodboard — betonowe leżaki, kaskady, żyjące schody, food truck | [02_koncepcja/referencje-wizualne.md](../02_koncepcja/referencje-wizualne.md) |
 | 2026-07-09 | `referencje/lawka-donica-L.jpg` _(do wgrania)_ | Rysunek wymiarowy ławki-donicy L | [03_detal/element-lawka-donica-L.md](../03_detal/element-lawka-donica-L.md) |
 | 2026-07-09 | `przyklad-nowak/` _(do wgrania)_ | Przykładowa praca studencka (P. Nowak) — wzorzec plansz | [00_brief/przyklad-pracy-studenckiej.md](../00_brief/przyklad-pracy-studenckiej.md) |
+| 2026-07-09 | `05_plansze/robocze/plansza-1-analizy-program.pdf` ✅ w repo | Robocza Plansza 1/2 autorki | [05_plansze/stan-i-braki.md](../05_plansze/stan-i-braki.md) |
+| 2026-07-09 | `05_plansze/robocze/plansza-2-projekt-wizualizacje.pdf` ✅ w repo | Robocza Plansza 2/2 autorki | [05_plansze/stan-i-braki.md](../05_plansze/stan-i-braki.md) |

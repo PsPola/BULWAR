@@ -30,6 +30,10 @@ podmokłe gleby rzeczne oraz silne słońce.
 ## 4. Wymogi formalne — skład opracowania
 Komplet plansz **B1 (100×70 cm, poziomo)** + książeczka uzupełniająca A4/A3.
 
+> UWAGA (2026-07-09): realny format przedmiotu to **2 plansze B1** (1/2 analizy+program,
+> 2/2 projekt+wizualizacje) — potwierdzone pracą Nowaka i roboczym draftem autorki.
+> Autor projektu: **Pola Organiszczak**. Stan i braki: `05_plansze/stan-i-braki.md`.
+
 ### PLANSZA 1 — Analizy
 - Mapa sytuacyjna (1:500 / 1:1000)
 - Analizy uwarunkowań: widokowe, komunikacja, profil użytkownika
