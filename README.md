@@ -19,6 +19,7 @@ priorytet gatunków rodzimych, unikanie inwazyjnych.
 03_detal/           – detal indywidualny (meandrujące schody + kaskada + kieszeń roślinna)
 04_rosliny/         – dobór roślinny wg stref hydrologicznych (kluczowa merytoryka)
 05_plansze/         – layout i robocze wersje plansz B1
+narzedzia-dxf/      – generatory DXF (ezdxf) + ściąga AutoCAD + wiedza CAD (import z projektu ławki)
 materialy-zrodlowe/ – surowe materiały dostarczane przez autorkę (mapy, zdjęcia, PDF-y)
 notatki/            – dziennik decyzji projektowych i otwarte pytania
 ```
@@ -28,3 +29,4 @@ notatki/            – dziennik decyzji projektowych i otwarte pytania
 - [Idea przewodnia i kompozycja plansz](02_koncepcja/idea-przewodnia.md)
 - [Dobór roślinny wg stref](04_rosliny/dobor-roslinny.md)
 - [Dziennik decyzji](notatki/dziennik-decyzji.md)
+- [Narzędzia DXF + ściąga AutoCAD](narzedzia-dxf/README.md)
