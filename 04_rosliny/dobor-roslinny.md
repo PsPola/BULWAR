@@ -62,6 +62,38 @@ Serce „dzikiej łąki" — efekt zwiewnej, kwitnącej łąki.
 2. **Phalaris arundinacea** (mozga) — rodzima i piękna, ale ekspansywna. Jeśli używamy,
    to tylko odmiana 'Picta' i w kontrolowanej kieszeni.
 
+## 🌳 PALETA CIENISTO-ZALEWOWA — kieszenie pod koronami zachowanych drzew
+(Zmiana strategii 2026-07-09: zachowujemy prawie wszystkie drzewa; kieszenie łąki wchodzą w PÓŁCIEŃ
+pod koronami, na gruncie okresowo zalewanym.) Gatunki jednocześnie: znoszące zalew + półcień + paleta fiolet-srebro-biel.
+
+**A) Dno kieszeni — głęboki cień + wilgoć/zalew (przy pniu):**
+| Polska | Łacińska |
+|---|---|
+| pióropusznik strusi (paproć zalewowa) | *Matteuccia struthiopteris* |
+| wietlica samicza | *Athyrium filix-femina* |
+| turzyca zwisła | *Carex pendula* |
+| turzyca rzadkokłosa | *Carex remota* |
+| kuklik zwisły (fiolet-róż) | *Geum rivale* |
+| dąbrówka rozłogowa (fiolet, kobierzec) | *Ajuga reptans* |
+
+**B) Krawędź kieszeni — półcień, okresowo zalewane (rdzeń łąki):**
+| Polska | Łacińska | Efekt |
+|---|---|---|
+| śmiałek darniowy | *Deschampsia cespitosa* | srebrzysta mgiełka (srebro w cieniu) |
+| trzęślica modra | *Molinia caerulea* | zwiewna, pionowa |
+| wiązówka błotna | *Filipendula ulmaria* | kremowa biel |
+| sadziec konopiasty | *Eupatorium cannabinum* | fiolet-róż, motyle |
+| żywokost lekarski | *Symphytum officinale* | fioletowe dzwonki |
+| kozłek lekarski | *Valeriana officinalis* | biało-różowy, zwiewny |
+| dzięgiel leśny | *Angelica sylvestris* | architektoniczny, ciemne łodygi |
+
+**C) Jaśniejsze/suchsze krawędzie (przejście w słońce):**
+- krwawnica pospolita *Lythrum salicaria* — mocny fiolet (tylko najjaśniejsze miejsca)
+- brunnera wielkolistna *Brunnera macrophylla* 'Jack Frost' — srebrne liście (akcent, suchsze krawędzie)
+
+> Srebro w cieniu = połysk kwiatostanów śmiałka + srebrne liście brunnery. Fiolet: Ajuga, żywokost, sadziec,
+> krwawnica (słońce). Biel: wiązówka, dzięgiel, kozłek. Paprocie = bujna „dzika" tekstura pod koronami.
+
 ## 🌳 Gatunki WSKAZANE PRZEZ PROWADZĄCĄ (obowiązkowe) — rozmieszczenie w strefach
 Prowadząca wskazała konkretne gatunki do uwzględnienia. Większość to **rośliny ogrodowe,
 światłolubne, nietolerujące podtopień** → idą do STREFY C (sucha, rekreacyjna, plac z food truckiem),

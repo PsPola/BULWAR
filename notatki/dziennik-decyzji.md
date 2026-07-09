@@ -2,6 +2,21 @@
 
 Chronologiczny zapis ustaleń i otwartych pytań. Najnowsze na górze.
 
+## 2026-07-09 — ZMIANA STRATEGII: zachowujemy prawie WSZYSTKIE drzewa
+Kluczowy zwrot merytoryczny. Projektujemy schody, tarasy i placyki WOKÓŁ istniejących drzew,
+wplatając pnie w konstrukcję bulwaru (ludzie siedzą na stopniach w naturalnym cieniu).
+**Wycinamy TYLKO klon jesionolistny (Acer negundo)** — gatunek inwazyjny; jego usunięcie = czynny plus ekologiczny.
+Hasło: „Projektuję z drzewami, nie mimo nich."
+
+**Konsekwencje projektowe (zapisane w plikach):**
+- Meander schodów: oś (spline) wybrzusza się w głąb skarpy wokół drzew (drzewa = wypukłe węzły meandra),
+  wraca ku wodzie między drzewami; kaskady w przegięciach od strony wody. Kolizje z SOK → wspornikowe
+  platformy / pomosty na regulowanych stopkach (bez wykopu). Pierścień min. 1,5–2 m bez utwardzenia wokół pnia.
+  Strefa ochrony korzeni (SOK) = rzut korony + 1,5 m = strefa „nie ruszać".
+- Dobór roślin: nowa paleta CIENISTO-ZALEWOWA do kieszeni pod koronami (patrz `04_rosliny/dobor-roslinny.md`).
+- Food truck (mobilny, bez fundamentu): placyk w cieniu koron, utwardzenie kończone na linii rzutu korony;
+  nawierzchnia no-dig (geokrata / deck na stopkach); przyłącza poza SOK.
+
 ## 2026-07-09 — Import z brancha origin/damian: wzorce Nowaka (pergola + nawierzchnie)
 Z brancha `origin/damian` (repo architektura) wyciągnięto 2 wzorcowe arkusze wykonawcze Nowaka:
 PERGOLA A1 (1:25 + detale 1:2.5) i NAWIERZCHNIE C1 (rzut 1:100 + przekroje warstw 1:10 + tabela materiałów).
