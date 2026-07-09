@@ -51,6 +51,44 @@ Zasada: **rysujemy w model space 1:1 w metrach**, a skalę ustawiamy dopiero w a
 - **Skala liczbowa + podziałka liniowa (graficzna)**.
 - **Róża wiatrów / strzałka północy**.
 
+## RAMKA + STOPKA (w arkuszu / paper space, 1:1 w mm) — B1 1000×700 poziomo
+
+> Ramka i stopka rysujemy w LAYOUCIE (przestrzeń papieru), NIE w modelu. Jednostka = mm, skala wydruku 1:1.
+> Model zostaje na rysunek, pokazany przez okno (viewport).
+
+### 0. Ustaw arkusz
+- Zakładka layoutu → PPM → `Menedżer ustawień strony` → Modyfikuj.
+- Drukarka: `DWG To PDF.pc3`; rozmiar: **ISO B1 (1000×700)** lub własny 1000×700; orientacja: pozioma.
+- Skala wydruku: **1:1 mm**.
+- Wejdź w przestrzeń papieru (klik w zakładkę layoutu; pracuj poza oknem/viewportem).
+
+### 1. Warstwy pod ramkę
+- `RAMKA` (linie ramki), `OPIS_STOPKA` (teksty). Kolor dowolny, ale ramka grubsza (lineweight 0.35–0.50).
+
+### 2. Ramka (współrzędne, origin 0,0 = lewy dolny róg arkusza)
+- `PROSTOKĄT` (`RECTANG`): punkt 1 `10,10` → punkt 2 `990,690` (margines 10 mm).
+- Linia stopki (dół): `LINIA` (`LINE`): `10,55` → `990,55`.
+- Linia tytułu (góra): `LINIA`: `10,655` → `990,655`.
+- Box numeru planszy (prawy góra): `RECTANG` `935,655` → `990,690`.
+
+### 3. Styl tekstu
+- `STYL` (`STYLE`) → nowy styl `OPIS`, czcionka **Arial** (jak na przykładzie).
+
+### 4. Teksty (komenda `DTEKST`/`DTEXT`: punkt startu → wysokość → kąt 0 → wpisz tekst)
+- **Tytuł planszy** — start `20,668`, wys. `10`:
+  `KONCEPCJA ZAGOSPODAROWANIA FRAGMENTU CYPLA CZERNIAKOWSKIEGO - analizy i program`
+- **Numer planszy** — start `948,665`, wys. `12`: `1/2`  (na Planszy 2 → `2/2`)
+- **Stopka linia 1** — start `20,38`, wys. `7`:
+  `PRZEDMIOT: Projekt obieralny 2B - Projektowanie bulwarów i promenad, ROK AKADEMICKI 2025/2026`
+- **Stopka linia 2** — start `20,20`, wys. `7`:
+  `AUTOR: Pola Organiszczak     PROWADZĄCY: dr inż. Magdalena Błaszczyk, dr inż. Tatiana Swoczyna, mgr inż. Karolina Kais`
+
+> Uwaga na polskie znaki: `Błaszczyk`, `PROWADZĄCY`, `dr inż.` (na przykładzie były literówki bez ogonków — u nas poprawnie).
+
+### 5. Powtórz na drugiej planszy
+- Ten sam layout skopiuj (PPM na zakładce → Przenieś/Kopiuj) i zmień tytuł na `- projekt i wizualizacje` oraz numer na `2/2`.
+- Najlepiej: zrób ramkę+stopkę **blokiem** (`BLOK`), żeby edytować raz dla obu.
+
 ## Status (7.07.2026)
 Zrobione: stopki, analizy (Plansza 1 w dużej części). Do zrobienia wg tej kolejności: głównie
 Plansza 2 (kroki 4–9) + detal i przekroje.
