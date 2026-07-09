@@ -89,6 +89,29 @@ Zasada: **rysujemy w model space 1:1 w metrach**, a skalę ustawiamy dopiero w a
 - Ten sam layout skopiuj (PPM na zakładce → Przenieś/Kopiuj) i zmień tytuł na `- projekt i wizualizacje` oraz numer na `2/2`.
 - Najlepiej: zrób ramkę+stopkę **blokiem** (`BLOK`), żeby edytować raz dla obu.
 
+## Podziałka liniowa + róża wiatrów — dokładne komendy (paper space, mm)
+
+> Zasada bezpieczna dla „dynamic input": PIERWSZY punkt wpisuj jako `x,y` (absolutny),
+> KOLEJNE jako `@dx,dy` (względny). Jak polska nazwa komendy nie działa — wpisz angielską
+> z podkreśleniem: `_LINE`, `_PLINE`, `_COPY`, `_TEXT`, `_ROTATE`, `_MOVE`.
+
+### Podziałka 1:500 (100 mm = 50 m; działki co 20 mm = 10 m)
+- Warstwa `PODZIALKA` jako bieżąca.
+- `LINIA` ↵ `400,75` ↵ `@100,0` ↵ ↵            (linia bazowa)
+- `LINIA` ↵ `400,75` ↵ `@0,5` ↵ ↵              (jedna kreska pionowa)
+- `KOPIUJ` ↵ (wskaż kreskę) ↵ `400,75` ↵ `@20,0` ↵ `@40,0` ↵ `@60,0` ↵ `@80,0` ↵ `@100,0` ↵ ↵
+- Opisy `DTEKST` (start / wys. 3.5 / kąt 0): `398,66`→`0`, `416,66`→`10`, `436,66`→`20`, `456,66`→`30`, `476,66`→`40`, `496,66`→`50`, `506,66`→`m`
+- `DTEKST` `400,82` wys. `4` → `1:500`
+
+### Róża wiatrów (strzałka N)
+- Warstwa `OPIS_STOPKA`.
+- `PLINIA` ↵ `610,85` ↵ `@0,35` ↵ ↵            (trzon)
+- `LINIA` ↵ `610,120` ↵ `@-5,-10` ↵ ↵          (grot lewy)
+- `LINIA` ↵ `610,120` ↵ `@5,-10` ↵ ↵           (grot prawy)
+- `DTEKST` `606,124` wys. `6` → `N`
+- `OBRÓĆ` (zaznacz strzałkę+N) ↵ punkt bazowy `610,100` ↵ → dopasuj kąt do północy na rzucie.
+- Na koniec `PRZESUŃ` obie grupy pod rzut 1:500.
+
 ## Status (7.07.2026)
 Zrobione: stopki, analizy (Plansza 1 w dużej części). Do zrobienia wg tej kolejności: głównie
 Plansza 2 (kroki 4–9) + detal i przekroje.
