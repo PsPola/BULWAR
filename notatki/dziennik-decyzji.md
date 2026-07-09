@@ -2,6 +2,13 @@
 
 Chronologiczny zapis ustaleń i otwartych pytań. Najnowsze na górze.
 
+## 2026-07-09 — Import z brancha origin/damian: wzorce Nowaka (pergola + nawierzchnie)
+Z brancha `origin/damian` (repo architektura) wyciągnięto 2 wzorcowe arkusze wykonawcze Nowaka:
+PERGOLA A1 (1:25 + detale 1:2.5) i NAWIERZCHNIE C1 (rzut 1:100 + przekroje warstw 1:10 + tabela materiałów).
+Zapisane w `materialy-zrodlowe/przyklad-nowak/`, wiedza wyciągnięta do `03_detal/wzorce-nowak-pergola-nawierzchnie.md`.
+Szkice (IMG_2393/2406) pominięte — to mapa katastralna innej działki, nie dotyczy Cypla.
+Wykorzystanie: układy warstw nawierzchni + schemat pergoli wprost do naszych detali/przekrojów.
+
 ## 2026-07-09 — Import narzędzi DXF (ezdxf) z projektu ławki
 Zaimportowano do `narzedzia-dxf/` mechanizm generowania DXF (Python + ezdxf) z wcześniejszego
 projektu autorki: generatory schody+murek, pergola, ławka, nawierzchnia + narzędzie czyszczące,

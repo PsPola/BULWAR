@@ -19,3 +19,5 @@ w odpowiednim folderze tematycznym (`01_analizy/`, `04_rosliny/` itd.) i linkuje
 | 2026-07-09 | `05_plansze/robocze/plansza-2-projekt-wizualizacje.pdf` ✅ w repo | Robocza Plansza 2/2 autorki | [05_plansze/stan-i-braki.md](../05_plansze/stan-i-braki.md) |
 | 2026-07-09 | `01_analizy/ksiazeczka-dendrologiczna.pdf` ✅ w repo | Książeczka dendrologiczna (15 str.) | [01_analizy/dendrologia.md](../01_analizy/dendrologia.md) |
 | 2026-07-09 | `01_analizy/analiza-sloneczna.pdf` ✅ w repo | Analiza zacienienia (SketchUp, 3 pory roku) | [01_analizy/analiza-sloneczna.md](../01_analizy/analiza-sloneczna.md) |
+| 2026-07-09 | `przyklad-nowak/PERGOLA_A1_PAWEL_NOWAK.pdf` ✅ w repo | Wzorzec wykonawczy pergoli (1:25 + detale) | [03_detal/wzorce-nowak-pergola-nawierzchnie.md](../03_detal/wzorce-nowak-pergola-nawierzchnie.md) |
+| 2026-07-09 | `przyklad-nowak/NAWIERZCHNIE_C1_PAWEL_NOWAK.pdf` ✅ w repo | Wzorzec wykonawczy nawierzchni (warstwy + tabela) | [03_detal/wzorce-nowak-pergola-nawierzchnie.md](../03_detal/wzorce-nowak-pergola-nawierzchnie.md) |
