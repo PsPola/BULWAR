@@ -35,6 +35,32 @@ Status: ✅ masz (z draftu) / 🟠 dodać lub dopracować.
 - **Kolumna środkowa:** Dyspozycja 1:500 (duże, dominanta) → pod nią podziałka + róża wiatrów → Tabela programowa.
 - **Kolumna prawa:** Szata roślinna → Dendrologia/gospodarka (kondensat) → Linijka słońca (kondensat) → Przyrodnicza → Komunikacja i wyposażenie.
 
+## ⭐ STRUKTURA WG SPRAWDZONEGO WZORU PAWŁA (priorytet!)
+Wydrukowana, przyjęta plansza Pawła Nowaka pokazuje realny, prostszy układ. Trzymamy się go.
+
+**3 kolumny:**
+- LEWA: Lokalizacja · Profil użytkowników · Powiązania widokowe (+ Widok 1)
+- ŚRODEK: Dyspozycja funkcjonalno-przestrzenna 1:500 (DOMINANTA) · Tabela programowa
+- PRAWA: Komunikacja + wyposażenie · Analiza przyrodnicza (mapa drzew) · Widok 2 + Widok 3
+
+**CO NA PLANSZĘ vs CO DO KSIĄŻECZKI:**
+- NA PLANSZĘ B1: powyższe bloki (jak Paweł). Zdjęcia = Widok 1/2/3 (nie osobny blok „dokumentacja").
+  Wnioski = wtopione w teksty analiz (nie osobny pas haseł).
+- DO KSIĄŻECZKI (A4/A3, konsultacje wspomagające — JUŻ GOTOWE): pełna dendrologia (inwentaryzacja +
+  gospodarka drzewostanem z wycinką) i fizjografia (linijka słońca). Na planszy tylko ich esencja
+  (mapa gatunków w bloku przyrodniczym).
+
+**Detale jakości od Pawła:** dyspozycja = wyraźna dominanta (środek, kolory stref, podpis 1:500);
+kolory stref = te same w tabeli programowej; punkty W1/W2/W3 zaznaczone na rzucie i połączone ze zdjęciami;
+dużo światła.
+
+**Nasz wyróżnik w tym układzie:** strategia zachowania drzew widoczna w dyspozycji (strefy owijają się
+wokół drzew) i w analizie przyrodniczej (mocny tekst „z Wisłą", wycinka tylko Acer negundo).
+
+> UWAGA: wcześniejsza wersja „8 bloków + wnioski + dokumentacja foto" (`PLANSZA1-komplet-do-kopiowania.md`)
+> była przekombinowana. Priorytet = powyższa struktura Pawła. Teksty z kompletu nadal pasują — tylko
+> dendro/słońce przenosimy do książeczki, a wnioski wtapiamy w analizy.
+
 ## MAKIETA — dokładne współrzędne bloków (B1 1000×700, origin lewy-dolny)
 Ramka 10,10–990,690. Linia tytułu y=655. Linia stopki y=55.
 Trzy kolumny: **L** x15–320 · **C** x335–665 (najszersza, dominanta) · **P** x680–985.
