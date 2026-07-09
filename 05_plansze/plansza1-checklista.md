@@ -55,6 +55,44 @@ Bloki rysujemy jako ramki pomocnicze (warstwa `POMOC`), potem wypełniamy treśc
 | P4 Analiza przyrodnicza | 680,190 | @305,125 |
 | P5 Komunikacja + wyposażenie | 680,60 | @305,125 |
 
+## Treść: KOPIUJ Z DRAFTU vs ZRÓB OD ZERA
+- **Kopiuj z draftu (masz gotowe):** L1 Lokalizacja, L2 Profil, L3 Powiązania widokowe,
+  L4 Widoki, C1 Dyspozycja 1:500, C3 Tabela programowa, P1 Szata roślinna, P4 Przyrodnicza, P5 Komunikacja.
+- **Zrób od zera:** C2 Podziałka + róża wiatrów · P2 Dendrologia/gospodarka (kondensat z książeczki) ·
+  P3 Linijka słońca (kondensat z analizy słonecznej). + poprawa polskich znaków w stopce.
+
+## WARSTWY — co na jakiej
+**Arkusz (paper space):**
+| Warstwa | Elementy |
+|---|---|
+| `RAMKA` | ramka, linie stopki/tytułu, box numeru |
+| `OPIS_STOPKA` | tytuł planszy, numer, teksty stopki |
+| `POMOC` | 12 ramek pomocniczych (na końcu: wyłącz wydruk / zamroź) |
+| `RZUTNIE` | obramowanie okna rzutu 1:500 (ustaw „nie drukuj") |
+| `PODZIALKA` | podziałka liniowa + róża wiatrów |
+| `OPISY` | nagłówki i akapity bloków analiz |
+| `TABELE` | tabela programowa |
+
+**Model (rysunek):**
+| Warstwa | Elementy |
+|---|---|
+| `01_PODKLAD` | mapa zasadnicza (zablokowana, szara) |
+| `00_GRANICA` | granica opracowania (kropka-kreska) |
+| `STREFY` | kolorowe strefy dyspozycji funkcjonalnej |
+
+## SKALA — jak nie pomylić (KLUCZOWE)
+- Rysunek siedzi w MODELU 1:1 (rzeczywiste wymiary) — tam NIC nie skalujesz.
+- Skala 1:500 powstaje w OKNIE (rzutni) na arkuszu: okno pokazuje model pomniejszony 500×.
+- Papier = mm. Przy 1:500: 1 mm papieru = 0,5 m terenu → **1 m terenu = 2 mm papieru**.
+- Wartość do `ZOOM …xp` zależy od jednostek MODELU:
+  - model w **metrach** → `2xp`
+  - model w **centymetrach** → `1/50xp`
+  - model w **milimetrach** → `1/500xp`
+- Sprawdź jednostki: `DIST` na odcinku o znanej długości (np. bok budynku ~30 m).
+  Wynik ≈30 → metry; ≈3000 → cm; ≈30000 → mm.
+- Po ustawieniu skali **zablokuj rzutnię** (Properties → Display locked = Yes), żeby scroll jej nie rozjechał.
+- Mapa zasadnicza w PL zwykle w metrach → najpewniej `2xp` (ale potwierdź DIST).
+
 ## Kolejność realizacji (po kolei)
 1. Ustaw siatkę kompozycji (3 kolumny) — pomocnicze linie w papierze.
 2. Wstaw okno (viewport) z rzutem 1:500 w kolumnie środkowej.
