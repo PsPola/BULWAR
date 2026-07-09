@@ -51,6 +51,13 @@ Zasada: **rysujemy w model space 1:1 w metrach**, a skalę ustawiamy dopiero w a
 - **Skala liczbowa + podziałka liniowa (graficzna)**.
 - **Róża wiatrów / strzałka północy**.
 
+## WARIANT POLI (wybrany): elementy osobno, układane ręcznie
+- Ramka + stopka + tytuł → **na Layoucie (papier)**, w mm — to arkusz do druku.
+- Każdy element (lokalizacja, profil, teksty, tabele, mini-analizy) rysowany **osobno w papierze**,
+  bez ramek pomocniczych; autorka układa je ręcznie (`PRZESUŃ`).
+- **Model** trzyma tylko prawdziwą mapę cypla (metry); trafia do bloku dyspozycji przez **okno 1:500** (`2xp`).
+- Jednostki: `UNITS` → długość dziesiętne, skala wstawiania **metry** (`INSUNITS=6`). Elementy w papierze mierzysz w mm.
+
 ## RAMKA + STOPKA (w arkuszu / paper space, 1:1 w mm) — B1 1000×700 poziomo
 
 > Ramka i stopka rysujemy w LAYOUCIE (przestrzeń papieru), NIE w modelu. Jednostka = mm, skala wydruku 1:1.
