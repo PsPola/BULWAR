@@ -2,6 +2,16 @@
 
 Chronologiczny zapis ustaleń i otwartych pytań. Najnowsze na górze.
 
+## 2026-07-09 — Wytyczne prowadzącej: obowiązkowe gatunki + rozmieszczenie
+Prowadząca wskazała gatunki do uwzględnienia (krzewy: Buddleja davidii, Sambucus nigra,
+Syringa vulgaris, Ribes aureum, Amelanchier lamarckii; pnącza: Wisteria sinensis, Clematis).
+Ustalone rozmieszczenie w strefach → `04_rosliny/dobor-roslinny.md`:
+- Ogrodowe/światłolubne → STREFA C (plac, food truck); pnącza na pergolach.
+- Bez czarny (rodzimy, wilgociolubny) → strefa przejściowa B.
+- Kieszenie przy wodzie (A/B) → tylko byliny nadrzeczne + trawy (fiolet-srebro).
+Idea: gradient „dzikość → kultura" równoległy do gradientu wodnego.
+⚠️ Buddleja potencjalnie inwazyjna (Natura 2000) → strefa sucha, ogławianie kwiatostanów.
+
 ## 2026-07-09 — Materiał #5: książeczka dendrologiczna + analiza słoneczna
 Dwa dokumenty analityczne autorki (PDF w `01_analizy/`). Streszczenia:
 `01_analizy/dendrologia.md` i `01_analizy/analiza-sloneczna.md`.
